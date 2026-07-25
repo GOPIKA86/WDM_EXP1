@@ -1,5 +1,9 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+
+#### NAME: GOPIKA A
+#### REG NO: 212224100017
+#### DATE: 25/07/2026
+
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -11,14 +15,14 @@
 Employee Data
 ---------------
 @relation employee
-@attribute name {x,y,z,a,b}
+@attribute name {Gopika,y,z,a,b}
 @attribute id numeric
 @attribute salary {low,medium,high}
 @attribute exp numeric
 @attribute gender {male,female}
 @attribute phone numeric
 @data
-x,101,low,2,male,250311
+Gopika,101,low,2,male,250311
 y,102,high,3,female,251665
 z,103,medium,1,male,240238
 a,104,low,5,female,200200
@@ -54,6 +58,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="1917" height="1078" alt="Screenshot 2026-07-24 155830" src="https://github.com/user-attachments/assets/8faf1195-ad44-4148-8e02-6ab9d52f4eac" />
 
 
 ### PREPROCESSING
@@ -75,6 +80,7 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/dd2e7acb-9bdb-44a3-ab78-3463884e021e" />
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +97,7 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/97c891a4-7462-450e-b8bd-f03451e0c7f5" />
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +114,7 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/942ba055-858c-47df-aec7-3e531d6ded8c" />
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
