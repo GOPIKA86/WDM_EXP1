@@ -114,6 +114,7 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/942ba055-858c-47df-aec7-3e531d6ded8c" />
 
 ### RESULT: 
